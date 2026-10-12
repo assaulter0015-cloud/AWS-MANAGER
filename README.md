@@ -2,7 +2,7 @@
 
 AWS MANAGER
 
-DESCRIPTION
+DESCRIPTION:-
 
 AWS Manager is a tool designed to simplify and streamline
 the management of Amazon Web Services (AWS) EC2 instances.
